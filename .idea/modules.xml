@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ssm-01-hellowworld/ssm-01-hellowworld.iml" filepath="$PROJECT_DIR$/ssm-01-hellowworld/ssm-01-hellowworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-02-text/ssm-02-text.iml" filepath="$PROJECT_DIR$/ssm-02-text/ssm-02-text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-03-text/ssm-03-text.iml" filepath="$PROJECT_DIR$/ssm-03-text/ssm-03-text.iml" />
     </modules>
   </component>
 </project>
